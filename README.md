@@ -1,5 +1,7 @@
 # LABORATORIO-9
 
+![image](https://user-images.githubusercontent.com/117923992/221039682-31b72108-fccb-4774-9bc8-f30bd5c722c9.png)
+
 UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 FUNDAMENTO DE CIRCUITOS ELECTRICOS
@@ -57,16 +59,57 @@ Sin emplear calculadora. Transforme a su forma polar:
 
 a) 2 + 3 j =
 
+![image](https://user-images.githubusercontent.com/117923992/221036963-6b7252fb-748d-46e6-a53b-ad4680a4cd44.png)
+
 b) -8 + 6.2 j =
+
+![image](https://user-images.githubusercontent.com/117923992/221037163-f0d9e374-614e-4fcd-9dc0-3d1c3bbd9957.png)
 
 c) 4.3 – 2.8 j =
 
+![image](https://user-images.githubusercontent.com/117923992/221037276-8dcd3674-f05b-4d39-9c0b-2b141414e8c1.png)
+
 d) -6 – 3.2 j =
+
+![image](https://user-images.githubusercontent.com/117923992/221037314-715efb6a-3d2d-4653-a7c1-5d45ff2939b7.png)
 
 Sin emplear calculadora. Transforme a su forma rectangular:
 
+a) 36 | -10° =
+
+![image](https://user-images.githubusercontent.com/117923992/221038542-9dbf10ec-4373-47a2-8fe9-096c07240852.png)
+
+b) 28.7 | 135° =
+
+![image](https://user-images.githubusercontent.com/117923992/221038564-5e030488-40dd-42f7-a5c5-91f763767e01.png)
+
+c) 11.2 | 28° =
+
+![image](https://user-images.githubusercontent.com/117923992/221038596-57728789-f70e-459c-97c1-0be2ec100558.png)
+
+d) 45 | -117.9° =
+
+![image](https://user-images.githubusercontent.com/117923992/221038624-0cb1745b-f9f1-4299-af03-051ce9f6880b.png)
 
 Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+a)
+
+![image](https://user-images.githubusercontent.com/117923992/221039014-2e432b44-1ca0-4dc0-bd49-1ffb701e4a64.png)
+
+![image](https://user-images.githubusercontent.com/117923992/221039292-bc036d84-1020-44bf-84c0-459647fd618f.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/117923992/221039086-2ccca2e8-c9a7-4b2c-9883-e39bc61f172d.png)
+
+![image](https://user-images.githubusercontent.com/117923992/221039341-97a98966-c0b1-4691-b41c-4f5b6b29a9ad.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/117923992/221039163-6c63e278-8051-4cc2-beb2-a0f48cad8dd2.png)
+
+![image](https://user-images.githubusercontent.com/117923992/221039394-3684cf3a-914d-49b0-bf75-155484088f64.png)
 
 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
