@@ -113,6 +113,59 @@ c)
 
 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
+EJERCICIO NUMERO 1
+
+Transforme a su forma polar:
+
+a)
+
+![image](https://user-images.githubusercontent.com/117923992/221040543-a19623ec-fc2e-41b6-8e55-2052b518f1aa.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/117923992/221040701-f3897cd1-07db-41e4-ba4f-0dc29bd17477.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/117923992/221040807-d1105c84-9b75-4854-a3eb-e8fb07b7b8a0.png)
+
+d)
+
+![image](https://user-images.githubusercontent.com/117923992/221040933-d25e83df-c1c0-4941-bee2-4d11b70a40b9.png)
+
+EJERCICIO NUMERO 2 
+
+Transforme a su forma rectangular:
+
+a)
+
+![image](https://user-images.githubusercontent.com/117923992/221041196-696d903b-d7f0-449f-9122-786e38fbc810.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/117923992/221041307-67dafad8-aac5-4909-85e5-cf49b29d7988.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/117923992/221041437-a85ffb10-f67b-49fe-a061-393501e28b54.png)
+
+d)
+
+![image](https://user-images.githubusercontent.com/117923992/221041526-6bf02cca-9563-4203-9b0e-7a47d9b559b6.png)
+
+EJERCICIO NUMERO 3
+
+ Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+ 
+a)
+
+
+b)
+
+
+c)
+
+
 NOTA: Emplee solo una calculadora física o virtual para resolver las operaciones. No
 debe emplear aplicaciones web y las operaciones deben realizarse en una sola
 operación.
@@ -134,3 +187,7 @@ BIBLIOGRAFIA:
 • Floyd, T. L. (s. f.). Principios de circuitos eléctricos (8.a ed.).
 
 http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+
+CALCULADORAS UTILIZADAS EN LOS DOS PRIMEROS EJERCICIOS:
+
+https://www.matesfacil.com/BAC/complejos/numeros-complejos-forma-polar-binomica-calculadora-producto-problemas-resueltos.html
