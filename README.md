@@ -49,6 +49,10 @@ los números complejos se puede sumar, restar, multiplicar y dividir cantidades 
 
 MARCO TEORICO:
 
+![image](https://user-images.githubusercontent.com/117923992/221091696-a4a04579-4c69-44e3-baa9-541b7560ebac.png)
+
+![image](https://user-images.githubusercontent.com/117923992/221091734-170b3ad5-9ae9-4e10-a640-8510af59fe1a.png)
+
 
 MATERIAL Y EQUIPO REQUERIDO
 
